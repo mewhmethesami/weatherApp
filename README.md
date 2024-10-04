@@ -1,5 +1,5 @@
 # React + Vite
-
+you can by enter city name recieve info of that city like temperature,wind speed and ...
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
