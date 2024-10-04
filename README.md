@@ -1,5 +1,7 @@
 # React + Vite
 you can by enter city name recieve info of that city like temperature,wind speed and ...
+1_ enter npm i for install node_modules packages
+2_enter npm run dev 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
